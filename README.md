@@ -16,7 +16,7 @@ I'm Mouad Mounib, I am Currently A [42 Student] And A [Front-End Developer] (Exp
 ## Get in touch :coffee:
 
 - Your future employee on [LinkedIn](https://www.linkedin.com/in/mouad-mounib-954418193/)
-- And of course GitHub you're already on (Recursion).
+- And of course GitHub you're already on 🔄:.
 
 ## This is My Intranet Profile As a student of 42 Network 👨‍🎓:
 
