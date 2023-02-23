@@ -10,8 +10,8 @@ I'm Mouad Mounib, I am Currently A [42 Student] And A [Front-End Developer] (Exp
 
 ## Things I am passionate about
 
-- WebDev 💻:
-- Chess ♟️:
+- WebDev   💻:
+- Chess    ♟️:
 
 ## Get in touch :coffee:
 
