@@ -5,7 +5,7 @@
 
 ## About me
 
-I'm Mouad Mounib, I am Currently A [42 Student] And A [Front-End Developer] (Expert In CSS And a little of ReactJs) And Currently Learning Back-End Development. I am a :coffee: lover.
+Hi There !, My Name Is Mouad Mounib, I am Currently A [42 Student] And A [Front-End Developer] (Expert In CSS And a little of ReactJs) And Currently Learning Back-End Development. I am a :coffee: lover.
 
 
 ## Things I am passionate about
