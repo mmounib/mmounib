@@ -5,12 +5,12 @@
 
 ## About me
 
-Hi There !, My Name Is Mouad Mounib, I am Currently A [42 Student] And A [Front-End Developer] (Expert In CSS And a little of ReactJs) And Currently Learning Back-End Development. I am a :coffee: lover.
+Hey There, My Name Is Mouad Mounib, I am A Software Developer Student At [42] And A [Front-End Developer], Soon To Be A [Full-Stack Developer].
 
 
 ## Things I am passionate about
 
-- WebDev   💻:
+- Web Development   💻:
 - Chess    ♟️:
 
 ## Get in touch :coffee:
