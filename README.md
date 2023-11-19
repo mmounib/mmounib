@@ -17,6 +17,12 @@ I'm a passionate Full Stack Web Developer with expertise in React.js/Next.js, No
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
+## My Github Statistics
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mmounib&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+## My Top Languages That I Have Used
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mmounib&layout=compact&theme=radical)](https://github.com/mmounib)
+
 <!-- Portfolio -->
 ## 🚀 Portfolio
 Explore some of my recent projects on my [Portfolio Website](https://mouadmounib.vercel.app/).
